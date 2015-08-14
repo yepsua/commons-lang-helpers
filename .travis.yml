@@ -1,0 +1,18 @@
+language: php
+
+php:
+  - 5.5
+  - 5.6
+  - hhvm
+  - nightly
+  
+allow_failures:
+    - php: nightly
+
+install:
+  - travis_retry composer install --no-interaction
+
+matrix:
+  exclude:
+    - php: hhvm
+    - php: nightly

@@ -1,7 +1,12 @@
 Commons-Lang-Helpers
 ====================
-Commons Util Helpers and Sintax Generators.
 
+[![Build Status](https://secure.travis-ci.org/commons-lang-helpers/php-sdk.png?branch=master)](http://travis-ci.org/commons-lang-helpers/php-sdk) 
+[![Latest Stable Version](https://poser.pugx.org/yepsua/commons-lang-helpers/v/stable.svg)](https://packagist.org/packages/yepsua/commons-lang-helpers) 
+[![Latest Unstable Version](https://poser.pugx.org/yepsua/commons-lang-helpers/v/unstable.svg)](https://packagist.org/packages/yepsua/commons-lang-helpers)
+
+
+Commons Util Helpers and Sintax Generators.
 
 Instalation
 ===========
