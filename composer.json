@@ -1,0 +1,40 @@
+{
+	"name" : "yepsua/commons-lang-helpers",
+	"type" : "library",
+	"description" : "Helpers for Syntax Generators",
+	"keywords" : [
+		"helpers",
+		"xml",
+		"html",
+		"javascript",
+		"json"
+	],
+	"homepage" : "https://github.com/yepsua/commons-lang-helpers",
+	"license" : [
+		"GPL",
+		"MIT"
+	],
+	"authors" : [{
+			"name" : "Omar Yepez",
+			"email" : "omar.yepez@yepsua.com",
+			"homepage" : "http://www.yepsua.com",
+			"role" : "Lead Developer"
+		}
+	],
+	"support" : {
+		"issues" : "https://github.com/yepsua/commons-lang-helpers/issues",
+		"source" : "https://github.com/yepsua/commons-lang-helpers/"
+	},
+	"require" : {
+		"php" : ">=5.5.0"
+	},
+	"require-dev" : {
+		"phpunit/phpunit" : "4.7.*"
+	},
+	"autoload" : {
+		"psr-0" : {
+			"Yepsua" : "src/"
+		}
+	},
+	"minimum-stability" : "stable"
+}

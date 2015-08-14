@@ -1,0 +1,12 @@
+/vendor/
+/.settings
+/nbproject/
+/build/
+/nbproject/
+/composer.lock
+/gush.phar
+/composer.phar
+/.buildpath
+/.project
+*.php~
+
