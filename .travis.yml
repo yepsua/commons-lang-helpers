@@ -11,8 +11,3 @@ allow_failures:
 
 install:
   - travis_retry composer install --no-interaction
-
-matrix:
-  exclude:
-    - php: hhvm
-    - php: nightly
