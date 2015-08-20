@@ -4,7 +4,6 @@
 /build/
 /nbproject/
 /composer.lock
-/gush.phar
 /.buildpath
 /.project
 /*.phar
